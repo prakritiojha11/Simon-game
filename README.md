@@ -10,8 +10,8 @@ This project is a web-based version of the Simon Game, built with HTML, CSS, and
 
 # **Files**
 **The project consists of the following files:**
-**1) index.html: The main HTML file, which contains the game board and links to the CSS and JavaScript files.
-  2) styles.css: The CSS file, which contains the styling for the game board and buttons.
+**1) index.html: The main HTML file, which contains the game board and links to the CSS and JavaScript files.<br>
+  2) styles.css: The CSS file, which contains the styling for the game board and buttons.<br>
   3) game.js: The JavaScript file, which contains the game logic and functionality.**
 
 ###**Game Logic**
