@@ -19,7 +19,7 @@ This project is a web-based version of the Simon Game, built with HTML, CSS, and
 
 [Play Here](file:///C:/Users/Hp/OneDrive/Desktop/Simon%20Game%20Challenge%20Step%201%20Answer/index.html)
 
-# **Features**
+# :rocket: **Features**
 The project is a browser-based implementation of the classic electronic game Simon.<br>
 It uses HTML, CSS, and JavaScript to create the game interface and logic.<br>
 The game features four colored buttons that light up in a random pattern that the player must then repeat.<br>
