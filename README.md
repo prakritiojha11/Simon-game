@@ -28,5 +28,7 @@ This project is a web-based version of the Simon Game, built with HTML, CSS, and
 * The game includes sound effects and animations to enhance the playing experience.<br>
 * The game includes error handling to detect and respond to incorrect button presses.<br>
 * The game is responsive and can be played on a variety of devices and screen sizes.<br>
+
+:fire: # **Screenshort**
 ![Screenshot of my project](https://github.com/someoneme11/Simon-game/blob/master/im1.png?raw=true)
 
