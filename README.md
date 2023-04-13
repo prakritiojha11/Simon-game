@@ -14,7 +14,7 @@ This project is a web-based version of the Simon Game, built with HTML, CSS, and
   2) styles.css: The CSS file, which contains the styling for the game board and buttons.<br>
   3) game.js: The JavaScript file, which contains the game logic and functionality.**
 
-#**Game Logic**
+# **Game Logic**
 *The game logic is contained within the game.js file. The game uses two arrays to keep track of the sequence of colors and the user's clicked colors. Each time the user clicks on a color button, the clicked color is added to the user's array, and the function checkAnswer is called to check if the user's sequence matches the computer's sequence. If the user's sequence matches, the game moves on to the next level. If the user makes a mistake, the game ends and the startOver function is called to reset the game.*
 
 [###*Play Here*]
