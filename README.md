@@ -31,5 +31,4 @@ This project is a web-based version of the Simon Game, built with HTML, CSS, and
 
 # :fire: **Screenshort**
 
-![Screenshot of my project](https://github.com/someoneme11/Simon-game/blob/master/im1.png?raw=true)
-
+![Screenshot of my project](im1.png)
