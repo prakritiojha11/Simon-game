@@ -1,5 +1,5 @@
 
-## <span style="font-size:2000%; font-weight:bold">Simon Game</span>
+# <span style="font-size:2000%; font-weight:bold">Simon Game</span>
 
 # ***<p align="center" style="font-size: 900%">Get ready to challenge your memory skills and have some fun with Simon - the classic electronic game brought to life in your browser! Follow the patterns and climb the levels to become the ultimate Simon master. Are you up for the challenge?</p>***
 <br>
