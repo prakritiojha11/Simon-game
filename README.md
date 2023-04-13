@@ -9,7 +9,7 @@ This project is a web-based version of the Simon Game, built with HTML, CSS, and
 *To play the game, simply open the index.html file in your web browser. Press any key to start the game. The computer will randomly generate a sequence of colors and sounds. Repeat the sequence by clicking on the colored buttons in the correct order. Each time you successfully complete a level, the game will get harder by adding an additional color to the sequence. If you make a mistake, the game will end and you'll have to start over*
 
 # **Files**
-**The project consists of the following files:**
+**The project consists of the following files:**<br>
 **1) index.html: The main HTML file, which contains the game board and links to the CSS and JavaScript files.<br>
   2) styles.css: The CSS file, which contains the styling for the game board and buttons.<br>
   3) game.js: The JavaScript file, which contains the game logic and functionality.**
